@@ -15,7 +15,7 @@ This project is a complete **Employee Management System** featuring:
 
 | Component | Platform | URL |
 |---------|----------|------|
-| **Frontend (React)** | Vercel | 🔗 https://100966275-comp3123-assignment2.vercel.app/login |
+| **Frontend (React)** | Vercel | 🔗 https://100966275-comp3123-assignment2.vercel.app/ |
 | **Backend API (Express)** | Render | 🔗 https://one00966275-comp3123-assignment2-backend.onrender.com/ |
 
 Frontend communicates with the backend using Axios over HTTPS.
